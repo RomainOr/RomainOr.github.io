@@ -10,7 +10,7 @@ publishDate: '2024-02-01T21:05:50.397812Z'
 publication_types:
 - paper-conference
 publication: '*25th International Conference on Knowledge-Based and Intelligent Information
-  &amp;amp;amp; Engineering Systems*'
+  & Engineering Systems*'
 doi: 10.1016/j.procs.2021.08.015
 links:
 - name: URL
