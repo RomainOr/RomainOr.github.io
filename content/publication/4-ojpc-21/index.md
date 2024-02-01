@@ -1,6 +1,5 @@
 ---
-title: Explainability and Performance of Anticipatory Learning Classifier Systems
-  in Non-Deterministic Environments
+title: 'Explainability and Performance of Anticipatory Learning Classifier Systems in Non-Deterministic Environments'
 authors:
 - R. Orhand
 - A. Jeannin-Girardon

@@ -9,8 +9,7 @@ date: '2020-01-01'
 publishDate: '2024-02-01T21:05:50.424308Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference Companion*'
 doi: 10.1145/3377929.3390002
 links:
 - name: URL
