@@ -15,7 +15,5 @@ summary: "
 </table>
 "
 tags:
-- iut
-
-# Optional external URL for project (replaces project detail page).
+- ecam
 ---
