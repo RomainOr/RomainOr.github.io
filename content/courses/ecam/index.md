@@ -1,6 +1,8 @@
 ---
 title: Courses given at ECAM Strasbourg-Europe (29.75h - 27.13hetd)
 show_date: false
+share: false
+profile: true
 summary: "
 <table>
     <tr bgcolor=\"#ddd\">

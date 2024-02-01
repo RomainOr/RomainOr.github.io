@@ -1,5 +1,7 @@
 ---
 title: "Créativité et systèmes complexes : Proceedings des journées de Rochebrune 2020"
+share: false
+profile: true
 authors:
 - R. Orhand
 - E. Kardash
