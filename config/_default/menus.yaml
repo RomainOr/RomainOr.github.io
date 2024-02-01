@@ -18,7 +18,7 @@ main:
     weight: 40
   - name: Other Activities
     url: '#other'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
@@ -28,6 +28,3 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
