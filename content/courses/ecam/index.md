@@ -1,6 +1,5 @@
 ---
 title: Courses given at ECAM Strasbourg-Europe, known today as ICAM Strasabourg-Europe (29.75h - 27.13hetd)
-nodate: "true"
 summary: "
 <table>
     <tr bgcolor=\"#ddd\">

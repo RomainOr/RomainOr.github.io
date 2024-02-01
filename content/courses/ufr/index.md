@@ -1,6 +1,5 @@
 ---
 title: Courses given at UFR Math-Info of the University of Strasbourg (190h - 126.67hetd)
-nodate: "true"
 summary: "
 <table>
     <tr bgcolor=\"#ddd\">

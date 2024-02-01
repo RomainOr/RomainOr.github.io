@@ -1,6 +1,5 @@
 ---
 title: Courses given at IUT Robert Schuman of the University of Strasbourg (610h - 450.67hetd)
-nodate: "true"
 summary: "
 <table>
     <tr bgcolor=\"#ddd\">
