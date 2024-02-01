@@ -91,7 +91,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: list
   - block: portfolio
     id: courses
     content:
@@ -99,6 +99,7 @@ sections:
       filters:
         folders:
           - courses
+        exclude_featured: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -116,13 +117,7 @@ sections:
         - name: Ecam Strasbourg-Europe
           tag: ecam
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Toggle between the various page layout types.
-      #   1 = List
-      #   2 = Compact
-      #   3 = Card
-      #   5 = Showcase
       view: card
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
