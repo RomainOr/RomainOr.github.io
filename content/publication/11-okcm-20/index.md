@@ -1,5 +1,5 @@
 ---
-title: "Créativit ́et systèmes complexes : Proceedings des journ'ś de Rochebrune 2020"
+title: "Créativité et systèmes complexes : Proceedings des journées de Rochebrune 2020"
 authors:
 - R. Orhand
 - E. Kardash
