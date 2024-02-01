@@ -41,7 +41,7 @@ sections:
           description: ""
           
         - title: "Temporary Lecturer"
-          company: University of Strasbourg
+          company: UFR Math-Info, University of Strasbourg
           company_url: 'https://mathinfo.unistra.fr/'
           location: Strasbourg, France
           date_start: '2018-09-01'
