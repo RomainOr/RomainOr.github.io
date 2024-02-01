@@ -15,4 +15,6 @@ doi: 10.1145/3583133.3596352
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/4-OCPJ23
+share: false
+profile: true
 ---

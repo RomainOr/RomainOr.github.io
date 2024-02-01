@@ -15,4 +15,6 @@ doi: 10.1145/3377929.3390002
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/4-OJPC20a
+share: false
+profile: true
 ---

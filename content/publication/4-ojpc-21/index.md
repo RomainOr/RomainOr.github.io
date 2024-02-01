@@ -15,4 +15,6 @@ doi: 10.1145/3449726.3459510
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/4-OJPC21
+share: false
+profile: true
 ---

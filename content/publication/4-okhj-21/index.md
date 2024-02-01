@@ -15,4 +15,6 @@ doi: 10.1016/j.procs.2021.08.015
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/4-OKHJ21
+share: false
+profile: true
 ---

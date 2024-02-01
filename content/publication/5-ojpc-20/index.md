@@ -13,4 +13,6 @@ publication: '*Les journées de Rochebrune 2020*'
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/5-OJPC20
+share: false
+profile: true
 ---

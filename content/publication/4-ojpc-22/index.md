@@ -15,4 +15,6 @@ doi: 10.1007/978-3-031-02056-8_16
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/4-OJPC22
+share: false
+profile: true
 ---

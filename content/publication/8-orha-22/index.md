@@ -10,4 +10,6 @@ publication_types:
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/8-Orha22
+share: false
+profile: true
 ---

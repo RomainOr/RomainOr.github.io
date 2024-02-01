@@ -13,4 +13,6 @@ publication: '*RJCIA*'
 links:
 - name: URL
   url: http://publis.icube.unistra.fr/5-OJPC19
+share: false
+profile: true
 ---
