@@ -95,7 +95,7 @@ sections:
   - block: portfolio
     id: courses
     content:
-      page_type: courses
+      title: Courses
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       filter_default: 0
       # Filter toolbar (optional).
