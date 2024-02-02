@@ -108,7 +108,7 @@ sections:
           tag: ecam
         - name: IUT Robert Schuman
           tag: iut
-        - name: UFR Math-Info of Unistra
+        - name: UFR Math-Info
           tag: ufr
     design:
       columns: '1'
@@ -119,7 +119,10 @@ sections:
       title: Other Activities
       text: |-
         ### Supervision of students
-        *To complete*
+        - Tutor teacher of two students in their third year of BUT in 2023/2024
+        - *To complete 1*
+        - *To complete 2*
+        - *To complete 3*
 
         ### Organizing committee member of _Les journées de Rochebrune 2020_
         Scientific and logistical organization of the 2020 edition of _Les Journées de Rochebrune_, an interdisciplinary thematic school with proceedings, focusing on complex natural and artificial systems.
