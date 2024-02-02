@@ -1,5 +1,5 @@
 ---
-title: Courses given at UFR Math-Info of the University of Strasbourg (190h - 126.67hetd)
+title: 'UFR Math-Info - University of Strasbourg : 190h - 126.67hetd'
 show_date: false
 share: false
 profile: true

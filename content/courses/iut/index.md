@@ -1,5 +1,5 @@
 ---
-title: Courses given at IUT Robert Schuman of the University of Strasbourg (610h - 450.67hetd)
+title: 'IUT Robert Schuman - University of Strasbourg : 610h - 450.67hetd'
 show_date: false
 share: false
 profile: true

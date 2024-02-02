@@ -104,12 +104,12 @@ sections:
       buttons:
         - name: All
           tag: "*"
+        - name: Ecam Strasbourg-Europe
+          tag: ecam
         - name: IUT Robert Schuman
           tag: iut
         - name: UFR Math-Info of Unistra
           tag: ufr
-        - name: Ecam Strasbourg-Europe
-          tag: ecam
     design:
       columns: '1'
       view: card
@@ -118,12 +118,15 @@ sections:
     content:
       title: Other Activities
       text: |-
-          **Test 1**
-          *Test 2*
-          From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-          <!--Custom spacing-->
-          <div class="mb-3"></div>
-          Test 3
+        ### Supervision of students
+        *To complete*
+
+        ### Organizing committee member of _Les journées de Rochebrune 2020_
+        Scientific and logistical organization of the 2020 edition of _Les Journées de Rochebrune_, an interdisciplinary thematic school with proceedings, focusing on complex natural and artificial systems.
+
+        ### PhD students' representative for the doctoral school MSII (269)
+        Representation of doctoral students in computer science in the various decision-making bodies of the doctoral school.
+
     design:
       columns: '2'
   - block: contact
