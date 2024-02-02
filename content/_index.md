@@ -128,7 +128,7 @@ sections:
         Scientific and logistical organization of the 2020 edition of _Les Journées de Rochebrune_, an interdisciplinary thematic school with proceedings, focusing on complex natural and artificial systems.
 
         ### PhD students' representative for the doctoral school MSII (269)
-        Representation of doctoral students in computer science in the various decision-making bodies of the doctoral school.
+        Representation of doctoral students in computer science in the various decision-making bodies of the doctoral school from 2018 to 2022.
 
     design:
       columns: '2'
