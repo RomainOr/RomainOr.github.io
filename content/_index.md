@@ -113,17 +113,17 @@ sections:
     design:
       columns: '1'
       view: card
-  - block: custom
+  - block: markdown
     id: other
     content:
       title: Other Activities
-    text: |-
-        **Test 1**
-        *Test 2*
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        Test 3
+      text: |-
+          **Test 1**
+          *Test 2*
+          From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+          <!--Custom spacing-->
+          <div class="mb-3"></div>
+          Test 3
   - block: contact
     id: contact
     content:
