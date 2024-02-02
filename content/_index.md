@@ -124,6 +124,8 @@ sections:
           <!--Custom spacing-->
           <div class="mb-3"></div>
           Test 3
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
