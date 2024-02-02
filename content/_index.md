@@ -119,7 +119,7 @@ sections:
       title: Other Activities
       text: |-
         ### Supervision of students
-        - Tutor teacher of two students in their third year of BUT in 2023/2024
+        - Tutor teacher of two apprenticeship students in their third year of BUT in 2023/2024
         - *To complete 1*
         - *To complete 2*
         - *To complete 3*
