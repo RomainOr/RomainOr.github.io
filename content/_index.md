@@ -119,10 +119,12 @@ sections:
       title: Other Activities
       text: |-
         ### Supervision of students
-        - Tutor teacher of two apprenticeship students in their third year of BUT in 2023/2024
-        - *To complete 1*
-        - *To complete 2*
-        - *To complete 3*
+        - Tutor teacher of two apprenticeship students, D. Albrecht-Martin and J. Abid, in their third year of BUT in 2023/2024.
+
+        - TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](../static/uploads/2023_2024_TER_Renforcement.pdf)_.
+        - TER of Q. Christoffel in 2020 about _Explicability of Convolutional Neural Networks using Evolutionary algorithms_ with A. Jeannin-Girardon.
+        - Internship of A. Oury Bah in 2019 about _Hybrid Machine Learning : combining Deep Learning Models with Evolutionary Algorithms_ with A. Jeannin-Girardon.
+        - TER and internship of A. Hutt in 2019 about _Quantitative measure of feature transfer in Deep Neural Networks_ with A. Jeannin-Girardon.
 
         ### Organizing committee member of _Les journées de Rochebrune 2020_
         Scientific and logistical organization of the 2020 edition of _Les Journées de Rochebrune_, an interdisciplinary thematic school with proceedings, focusing on complex natural and artificial systems.
