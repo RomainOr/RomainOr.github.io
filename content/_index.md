@@ -100,7 +100,7 @@ sections:
     id: courses
     content:
       title: Courses
-      description: Feel free to click anywhere on the tables to see some materials created for my courses.
+      text: Feel free to click anywhere on the tables to see some materials created for my courses.
       filters:
         folders:
           - courses
