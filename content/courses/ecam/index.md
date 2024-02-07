@@ -5,15 +5,19 @@ share: false
 profile: true
 summary: "
 <table>
-    <tr bgcolor=\"#ddd\">
+    <tr>
         <td width =10%><b>Year</b></td>
-        <td width =18%><b>Name</b></td>
-        <td width =10%><b>Diploma - Level</b></td>
-        <td width =5%><b>Type</b></td>
-        <td width =5%><b>Hours</b></td>
-        <td width =20%><b>Description</b></td>
-        <td width =12%><b>Created materials</b></td>
-        <td width =10%><b>Misc. info</b></td>
+        <td width =30%><b>Name</b></td>
+        <td width =15%><b>Diploma - Level</b></td>
+        <td width =10%><b>Type</b></td>
+        <td width =10%><b>Hours</b></td>
+    </tr>
+    <tr>
+        <td>2018-2019</td>
+        <td>Network Architecture and Security</td>
+        <td>M1</td>
+        <td>CM<br>TP</td>
+        <td>8.75<br>21</td>
     </tr>
 </table>
 "
