@@ -13,11 +13,11 @@ summary: "
         <td width=10%><b>Hours</b></td>
     </tr>
     <tr>
-        <td valign=center>2018-2019</td>
-        <td valign=center>Network Architecture and Security</td>
-        <td valign=center>M1</td>
-        <td valign=center>CM<br>TP</td>
-        <td valign=center>8.75<br>21</td>
+        <td style="vertical-align: middle;">2018-2019</td>
+        <td style="vertical-align: middle;">Network Architecture and Security</td>
+        <td style="vertical-align: middle;">M1</td>
+        <td style="vertical-align: middle;">CM<br>TP</td>
+        <td style="vertical-align: middle;">8.75<br>21</td>
     </tr>
 </table>
 "
