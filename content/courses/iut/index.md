@@ -13,11 +13,95 @@ summary: "
         <td width=10%><b>Hours</b></td>
     </tr>
     <tr>
-        <td style='vertical-align: middle;'>2018-2019</td>
-        <td style='vertical-align: middle;'>Network Architecture and Security</td>
-        <td style='vertical-align: middle;'>M1</td>
-        <td style='vertical-align: middle;'>CM<br>TP</td>
-        <td style='vertical-align: middle;'>8.75<br>21</td>
+        <td style='vertical-align: middle;'>2023-2024</td>
+        <td style='vertical-align: middle;'>Production Chain Automation</td>
+        <td style='vertical-align: middle;'>BUT 3</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>6<br>16</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2023-2024</td>
+        <td style='vertical-align: middle;'>Development Quality</td>
+        <td style='vertical-align: middle;'>BUT 3 S5</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>14<br>24</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2023-2024</td>
+        <td style='vertical-align: middle;'>Development Quality</td>
+        <td style='vertical-align: middle;'>BUT 2 S3</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>2<br>20</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2022-2024</td>
+        <td style='vertical-align: middle;'>Development Quality</td>
+        <td style='vertical-align: middle;'>BUT 2 S4</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>36<br>112</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2022-2024</td>
+        <td style='vertical-align: middle;'>System Programming</td>
+        <td style='vertical-align: middle;'>BUT 2</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>16<br>24</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2022-2024</td>
+        <td style='vertical-align: middle;'>Analysis</td>
+        <td style='vertical-align: middle;'>BUT 2</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>16<br>56</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2024</td>
+        <td style='vertical-align: middle;'>Introduction to Computer Architecture</td>
+        <td style='vertical-align: middle;'>BUT 1</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>18<br>64</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Numerical Methods</td>
+        <td style='vertical-align: middle;'>BUT 1</td>
+        <td style='vertical-align: middle;'>TP</td>
+        <td style='vertical-align: middle;'>8</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Numerical Tools for Descriptive Statistics</td>
+        <td style='vertical-align: middle;'>BUT 1</td>
+        <td style='vertical-align: middle;'>TP</td>
+        <td style='vertical-align: middle;'>8</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Algorithmic Complexity</td>
+        <td style='vertical-align: middle;'>DUT 2</td>
+        <td style='vertical-align: middle;'>TP</td>
+        <td style='vertical-align: middle;'>16</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Performance</td>
+        <td style='vertical-align: middle;'>DUT 2</td>
+        <td style='vertical-align: middle;'>TP</td>
+        <td style='vertical-align: middle;'>48</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Principles of Operating Systems</td>
+        <td style='vertical-align: middle;'>DUT 2</td>
+        <td style='vertical-align: middle;'>TD<br>TP</td>
+        <td style='vertical-align: middle;'>12<br>36</td>
+    </tr>
+    <tr>
+        <td style='vertical-align: middle;'>2021-2022</td>
+        <td style='vertical-align: middle;'>Advanced Oriented-Object Programming and Design</td>
+        <td style='vertical-align: middle;'>DUT 2</td>
+        <td style='vertical-align: middle;'>TP</td>
+        <td style='vertical-align: middle;'>30</td>
     </tr>
 </table>
 "
