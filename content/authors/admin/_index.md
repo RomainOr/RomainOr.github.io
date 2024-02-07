@@ -74,9 +74,10 @@ highlight_name: true
 ---
 
 I am a Ph.D. in Computer Science (Artificial Intelligence) currently working as a Temporary Assistant Professor at the University of Strasbourg, in the CSTB Team of the ICube laboratory.
+{style="text-align: justify;"}
 
 My research activities revolve around three mutually complementary axes: reinforcement learning as a vector for the autonomy of machine learning models; the explainability of artificial intelligences in order to ensure the intelligibility of these models; and finally, a more technical axis dealing with the practical use of explicable reinforcement machine learning models to solve learning problems.
+{style="text-align: justify;"}
 
 I have also taught ~ 830h in the past years (and thoroughly enjoyed doing so!).
-
 {style="text-align: justify;"}
