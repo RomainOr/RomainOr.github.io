@@ -49,17 +49,17 @@ tags:
 - ufr
 ---
 
-_Client-side Web Programming_ introduces the HTML, CSS and Javascript technologies needed to design dynamic and adaptive web pages.
+<span style="color:#e29f61">_Client-side Web Programming_</span> introduces the HTML, CSS and Javascript technologies needed to design dynamic and adaptive web pages.
 {style="text-align: justify;"}
 
-_Artificial Intelligence_ introduces various machine learning techniques, from decision trees based on Shannon entropy, to K-means partitioning and neural networks.
+<span style="color:#e29f61">_Artificial Intelligence_</span> introduces various machine learning techniques, from decision trees based on Shannon entropy, to K-means partitioning and neural networks.
 {style="text-align: justify;"}
 
-_Academic Methods and Techniques_ provides a basic grounding in the work methods required at the UFR Math-Info. Students learn to use the various tools offered by the UFR, and work on writing reports in LaTeX.
+<span style="color:#e29f61">_Academic Methods and Techniques_</span> provides a basic grounding in the work methods required at the UFR Math-Info. Students learn to use the various tools offered by the UFR, and work on writing reports in LaTeX.
 {style="text-align: justify;"}
 
-_Object-Oriented Programming_ introduces the various concepts of classes and objects, inheritance and and encapsulation specific to object-oriented programming.
+<span style="color:#e29f61">_Object-Oriented Programming_</span> introduces the various concepts of classes and objects, inheritance and and encapsulation specific to object-oriented programming.
 {style="text-align: justify;"}
 
-_Server-side Web Programming_ provides the main concepts of server-side web programming. The objective is to discover PHP, AJAX and javascript (node.js) technologies that enable a web page from a client to interact with a server.
+<span style="color:#e29f61">_Server-side Web Programming_</span> provides the main concepts of server-side web programming. The objective is to discover PHP, AJAX and javascript (node.js) technologies that enable a web page from a client to interact with a server.
 {style="text-align: justify;"}
