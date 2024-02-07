@@ -101,7 +101,7 @@ sections:
     content:
       title: Courses
       subtitle: ' 
-        Feel free to click anywhere on the tables to see some materials created for my courses.
+        Feel free to click on any of the tables to see the teaching materials created for my courses.
       '
       filters:
         folders:
