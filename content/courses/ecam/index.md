@@ -21,6 +21,8 @@ tags:
 - ecam
 ---
 
-#Test header
+<p> plop </p>
 
 Test
+
+- TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](/uploads/other/2023_2024_TER_Renforcement.pdf)_.
