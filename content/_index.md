@@ -42,7 +42,7 @@ sections:
           date_end: '2023-08-31'
           description: |2-
             * Was responsible for the Development Quality resource (BUT 2 S4).
-            * Teached the resources Analysis (BUT 2), System programming (BUT 2), Virtualization - Operating system (BUT 2), Performance (DUT 2), Algorithmic complexity (DUT 2), Advanced object programming and design (DUT 2), Principles of operating systems (DUT 2), Numerical methods (BUT 1), Numerical tools for descriptive statistics (BUT 1) and Introduction to computer architecture (BUT 1).
+            * Taught the resources Analysis (BUT 2), System programming (BUT 2), Virtualization - Operating system (BUT 2), Performance (DUT 2), Algorithmic complexity (DUT 2), Advanced object programming and design (DUT 2), Principles of operating systems (DUT 2), Numerical methods (BUT 1), Numerical tools for descriptive statistics (BUT 1) and Introduction to computer architecture (BUT 1).
           
         - title: "Temporary Lecturer"
           company: UFR Math-Info, University of Strasbourg
