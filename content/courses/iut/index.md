@@ -116,7 +116,7 @@ tags:
 - iut
 ---
 
-<span style="color:#e29f61">_Development Quality (BUT 3 S5)_</span> reinforces development quality capabilities through various quality features (robustness, maintainability, portability, extensibility), inspection techniques and documentation. As I was in charge of this module, the following ressources were prepared:
+<span style="color:#e29f61">_Development Quality (BUT 3 S5)_</span> reinforces development quality capabilities through various quality features (robustness, maintainability, portability, extensibility), inspection techniques and documentation. As I was in charge of this course, the following ressources were prepared:
 {style="text-align: justify;"}
 - [Lecture 1 - Software Quality](/uploads/courses/iut_a52/TD1.pdf);
 - [Lecture 2 - Software Quality and Project Management](/uploads/courses/iut_a52/TD2.pdf);
@@ -125,7 +125,7 @@ tags:
 - [Lecture 5 - Software Quality Metrics](/uploads/courses/iut_a52/TD5.pdf).
 
 
-<span style="color:#e29f61">_Development Quality (BUT 2 S4)_</span> further develops the design and production of unit, integration and functional tests around the non-regression issue. As I was in charge of this module, the following ressources were prepared (the source code relative to the practical session and the project can be provided if required):
+<span style="color:#e29f61">_Development Quality (BUT 2 S4)_</span> further develops the design and production of unit, integration and functional tests around the non-regression issue. As I was in charge of this course, the following ressources were prepared (the source code relative to the practical session and the project can be provided if required):
 {style="text-align: justify;"}
 - [Practical session](/uploads/courses/iut_a41/TP.pdf);
 - [Lecture](/uploads/courses/iut_a41/CM.pdf);
