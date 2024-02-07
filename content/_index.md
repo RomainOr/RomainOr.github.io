@@ -102,7 +102,10 @@ sections:
       title: Courses
       subtitle: ' 
         Feel free to click on any of the tables to see the teaching materials created for my courses 
+
         or the main objectives of the provided courses.
+
+        Courses for which I am or have been responsible appear on orange.
       '
       filters:
         folders:

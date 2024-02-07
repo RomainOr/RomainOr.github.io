@@ -21,7 +21,7 @@ summary: "
     </tr>
     <tr>
         <td style='vertical-align: middle;'>2023-2024</td>
-        <td style='vertical-align: middle;'>Development Quality</td>
+        <td style='vertical-align: middle; color:#e29f61;'>Development Quality</td>
         <td style='vertical-align: middle;'>BUT 3 S5</td>
         <td style='vertical-align: middle;'>TD<br>TP</td>
         <td style='vertical-align: middle;'>14<br>24</td>
@@ -35,7 +35,7 @@ summary: "
     </tr>
     <tr>
         <td style='vertical-align: middle;'>2022-2024</td>
-        <td style='vertical-align: middle;'>Development Quality</td>
+        <td style='vertical-align: middle; color:#e29f61;'>Development Quality</td>
         <td style='vertical-align: middle;'>BUT 2 S4</td>
         <td style='vertical-align: middle;'>TD<br>TP</td>
         <td style='vertical-align: middle;'>36<br>112</td>

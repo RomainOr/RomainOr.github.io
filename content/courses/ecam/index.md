@@ -14,7 +14,7 @@ summary: "
     </tr>
     <tr>
         <td style='vertical-align: middle;'>2018-2019</td>
-        <td style='vertical-align: middle;'>Network Architecture and Security</td>
+        <td style='vertical-align: middle; color:#e29f61;'>Network Architecture and Security</td>
         <td style='vertical-align: middle;'>M1</td>
         <td style='vertical-align: middle;'>CM<br>TP</td>
         <td style='vertical-align: middle;'>8.75<br>21</td>
