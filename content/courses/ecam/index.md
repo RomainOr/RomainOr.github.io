@@ -25,7 +25,7 @@ tags:
 - ecam
 ---
 
-<span style="color:#e29f61">_Network Architecture and Security_</span> introduces the basic concepts of network architecture and raises awareness of information system security issues. I was in charge of all the lectures in this module, the following talks were prepared and given :
+<p style="color:#e29f61">_Network Architecture and Security_</p> introduces the basic concepts of network architecture and raises awareness of information system security issues. I was in charge of all the lectures in this module, the following talks were prepared and given :
 {style="text-align: justify;"}
 - [Lecture 1 - Rudiments and Design a network](/uploads/courses/ecam/1_Rudiments_and_Design_a_network.pdf);
 - [Lecture 2 - IP addresses and IP addressing](/uploads/courses/ecam/2_IP_addresses_and_IP_addressing.pdf);
