@@ -125,14 +125,11 @@ tags:
 - [Lecture 5 - Software Quality Metrics](/uploads/courses/iut_a52/TD5.pdf).
 
 
-
-<span style="color:#e29f61">_Development Quality (BUT 2 S4)_</span> further develops the design and production of unit, integration and functional tests around the non-regression issue. As I was in charge of this module, the following ressources were prepared:
+<span style="color:#e29f61">_Development Quality (BUT 2 S4)_</span> further develops the design and production of unit, integration and functional tests around the non-regression issue. As I was in charge of this module, the following ressources were prepared (the source code relative to the practical session and the project can be provided if required):
 {style="text-align: justify;"}
 - [Practical session](/uploads/courses/iut_a41/TP.pdf);
 - [Lecture](/uploads/courses/iut_a41/CM.pdf);
 - [Project](/uploads/courses/iut_a41/Projet.pdf).
-The source code relative to the practical session and the project can be provided if required.
-
 
 
 <span style="color:#e29f61">_Production Chain Automation_</span> puts an application's production chain into practice, to develop the skills needed to work effectively in an IT team, through the use of Docker containers, Continuous Integration and Continuous Deployment.
@@ -153,14 +150,14 @@ The source code relative to the practical session and the project can be provide
 <span style="color:#e29f61">_Introduction to Computer Architecture_</span> presents the principles behind the organization of computer components and the relationships between them, including memory management, Von Neumann architecture and instruction flow. Also introduces C language and pointer manipulation.
 {style="text-align: justify;"}
 
-<span style="color:#e29f61">_Numerical methods_<span/> describes floating-point numbers and their representation, and deals with the approximation of numbers by series and the polynomial approximation of functions.
+<span style="color:#e29f61">_Numerical Methods_</span> describes floating-point numbers and their representation, and deals with the approximation of numbers by series and the polynomial approximation of functions.
 {style="text-align: justify;"}
 
-<span style="color:#e29f61">_Numerical tools for descriptive statistics_<span/> reviews the main definitions, measurements and graphical representations of statistics, to introduce correlation coefficients and linear regression (using the R language).
+<span style="color:#e29f61">_Numerical Tools for Descriptive Statistics_</span> reviews the main definitions, measurements and graphical representations of statistics, to introduce correlation coefficients and linear regression (using the R language).
 {style="text-align: justify;"}
 
-<span style="color:#e29f61">_Algorithmic complexity_<span/> evaluates and demonstrates a program's resource consumption as a function of the consumption of a program's resources as a function of the data structures or algorithms used.
+<span style="color:#e29f61">_Algorithmic Complexity_</span> evaluates and demonstrates a program's resource consumption as a function of the consumption of a program's resources as a function of the data structures or algorithms used.
 {style="text-align: justify;"}
 
-<span style="color:#e29f61">_Performance_<span/> evaluates a program's resource consumption according to the data structures or algorithms used.
+<span style="color:#e29f61">_Performance_</span> evaluates a program's resource consumption according to the data structures or algorithms used.
 {style="text-align: justify;"}
