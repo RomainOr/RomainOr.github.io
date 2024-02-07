@@ -21,8 +21,9 @@ tags:
 - ecam
 ---
 
-<p> plop </p>
-
-Test
-
-- TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](/uploads/other/2023_2024_TER_Renforcement.pdf)_.
+As I was in charge of all the lectures in the Architecture and Networks module, the following talks were prepared and given :
+- [Lecture 1 - Rudiments and Design a network](/uploads/courses/ecam/1_Rudiments_and_Design_a_network.pdf);
+- [Lecture 2 - IP addresses and IP addressing](/uploads/courses/ecam/2_IP_addresses_and_IP_addressing.pdf);
+- [Lecture 3 - OSI Model, DHCP and DNS](/uploads/courses/ecam/3_OSI_Model_DHCP_and_DNS.pdf);
+- [Lecture 4 - TCP](/uploads/courses/ecam/4_TCP.pdf);
+- [Lecture 5 - Security and Cryptography](/uploads/courses/ecam/5_Security_and_Cryptography.pdf).
