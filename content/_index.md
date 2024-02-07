@@ -101,7 +101,8 @@ sections:
     content:
       title: Courses
       subtitle: ' 
-        Feel free to click on any of the tables to see the teaching materials created for my courses or the main objectives of the provided courses.
+        Feel free to click on any of the tables to see the teaching materials created for my courses 
+        or the main objectives of the provided courses.
       '
       filters:
         folders:
