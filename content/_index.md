@@ -131,10 +131,10 @@ sections:
       text: |-
         ### Supervision of students
         - Tutor teacher of two apprenticeship students, D. Albrecht-Martin and J. Abid, in their third year of BUT in 2023/2024.
-        - TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](/uploads/other/2023_2024_TER_Renforcement.pdf)_.
-        - TER of Q. Christoffel in 2020 about _Explicability of Convolutional Neural Networks using Evolutionary algorithms_ with A. Jeannin-Girardon.
+        - TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](/uploads/other/2024_TER_Daniil.pdf)_.
+        - TER of Q. Christoffel in 2020 about _[Explainbility of Convolutional Neural Networks using Evolutionary algorithms](/uploads/other/2020_TER_Quentin.pdf)_ with A. Jeannin-Girardon.
         - Internship of A. Oury Bah in 2019 about _Hybrid Machine Learning : combining Deep Learning Models with Evolutionary Algorithms_ with A. Jeannin-Girardon.
-        - TER and internship of A. Hutt in 2019 about _Quantitative measure of feature transfer in Deep Neural Networks_ with A. Jeannin-Girardon.
+        - TER and internship of A. Hutt in 2019 about _[Quantitative measure of feature transfer in Deep Neural Networks](/uploads/other/2019_TER_internship_Amarin.pdf)_ with A. Jeannin-Girardon.
 
         ### Talks
         - _Towards Autonomy and Explainability in Artificial Intelligence_, updated version, Dec. 2020, part of the seminar series of the Centre for Image Analysis of the Department of Information Technology of the Uppsala University (Sweden).
