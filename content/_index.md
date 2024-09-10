@@ -25,7 +25,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: "Associate Professor"
-          company: CSTB, ICube & IUT Robert Schuman, University of Strasbourg
+          company: MLMS, ICube & IUT Robert Schuman, University of Strasbourg
           company_url: 'https://iutrs.unistra.fr/'
           location: Illkirch-Graffenstaden, France
           date_start: '2024-09-01'
