@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Temporary Assistant Professor at the University of Strasbourg
+role: Associate Professor at the University of Strasbourg
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. in Computer Science (Artificial Intelligence) currently working as a Temporary Assistant Professor at the University of Strasbourg, in the CSTB Team of the ICube laboratory.
+I am a Ph.D. in Computer Science (Artificial Intelligence) currently working as an Associate Professor at the University of Strasbourg, in the MLMS Team of the ICube laboratory.
 {style="text-align: justify;"}
 
 My research activities revolve around three mutually complementary axes: reinforcement learning as a vector for the autonomy of machine learning models; the explainability of artificial intelligences in order to ensure the intelligibility of these models; and finally, a more technical axis dealing with the practical use of explicable reinforcement machine learning models to solve learning problems.

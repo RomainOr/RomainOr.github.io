@@ -24,15 +24,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: "Temporary Assistant Professor"
+        - title: "Associate Professor"
           company: CSTB, ICube & IUT Robert Schuman, University of Strasbourg
           company_url: 'https://iutrs.unistra.fr/'
           location: Illkirch-Graffenstaden, France
-          date_start: '2023-09-01'
+          date_start: '2024-09-01'
           date_end: ''
           description: |2-
             * Is responsible for Development Quality resources (BUT 2 S4 and BUT 3 S5).
             * Teaches the resources Production Chain Automation (BUT 3), Analysis (BUT 2), Development Quality (BUT 2 S3), System Programming (BUT 2), Virtualization - Operating System (BUT 2) and Introduction to Computer Architecture (BUT 1).
+
+        - title: "Temporary Associate Professor"
+          company: CSTB, ICube & IUT Robert Schuman, University of Strasbourg
+          company_url: 'https://iutrs.unistra.fr/'
+          location: Illkirch-Graffenstaden, France
+          date_start: '2023-09-01'
+          date_end: '2024-08-31'
+          description: |2-
+            * Was responsible for Development Quality resources (BUT 2 S4 and BUT 3 S5).
+            * Taught the resources Production Chain Automation (BUT 3), Analysis (BUT 2), Development Quality (BUT 2 S3), System Programming (BUT 2), Virtualization - Operating System (BUT 2) and Introduction to Computer Architecture (BUT 1).
 
         - title: "Temporary Research and Teaching Assistant"
           company: CSTB, ICube & IUT Robert Schuman, University of Strasbourg
@@ -66,7 +76,7 @@ sections:
           location: Beggen, Luxembourg
           date_start: '2017-10-01'
           date_end: '2018-08-31'
-          description: Worked as a Research, Development and Innovation Consultant for Actimage. Was responsible for the image analysis and algorithmic software for the Sidas Feetbox kiosk project.
+          description: Worked as a Research, Development and Innovation Consultant for Actimage. Was responsible for the image analysis and algorithmic software for the Sidas Feetbox kiosk project, amongst other projects.
 
         - title: "Research Engineer Internship"
           company: Inria Grand Est
@@ -130,7 +140,7 @@ sections:
       title: Other Activities
       text: |-
         ### Supervision of students
-        - Tutor teacher of two apprenticeship students, D. Albrecht-Martin and J. Abid, in their third year of BUT in 2023/2024.
+        - Tutor teacher of two apprenticeship students, D. Albrecht--Martin and J. Abid, in their third year of BUT in 2023/2024.
         - TER of D. Kudriashov in 2024 about _[Reinforcement Learning for Anticipatory Learning Classifier Systems](/uploads/other/2024_TER_Daniil.pdf)_.
         - TER of Q. Christoffel in 2020 about _[Explainability of Convolutional Neural Networks using Evolutionary algorithms](/uploads/other/2020_TER_Quentin.pdf)_ with A. Jeannin-Girardon.
         - Internship of A. Oury Bah in 2019 about _Hybrid Machine Learning : combining Deep Learning Models with Evolutionary Algorithms_ with A. Jeannin-Girardon.
